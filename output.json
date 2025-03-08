@@ -1,0 +1,321 @@
+{
+  "id": 1394130208,
+  "messages": [
+    {
+      "id": 19703,
+      "type": "message",
+      "file": "6197258696115996585.jpg",
+      "raw": {
+        "Flags": 2278922,
+        "Out": true,
+        "Mentioned": false,
+        "MediaUnread": false,
+        "Silent": false,
+        "Post": true,
+        "FromScheduled": false,
+        "Legacy": false,
+        "EditHide": true,
+        "Pinned": false,
+        "Noforwards": false,
+        "InvertMedia": false,
+        "Flags2": 0,
+        "Offline": false,
+        "ID": 19703,
+        "FromID": null,
+        "FromBoostsApplied": 0,
+        "PeerID": {
+          "ChannelID": 1394130208
+        },
+        "SavedPeerID": null,
+        "FwdFrom": {
+          "Flags": 0,
+          "Imported": false,
+          "SavedOut": false,
+          "FromID": null,
+          "FromName": "",
+          "Date": 0,
+          "ChannelPost": 0,
+          "PostAuthor": "",
+          "SavedFromPeer": null,
+          "SavedFromMsgID": 0,
+          "SavedFromID": null,
+          "SavedFromName": "",
+          "SavedDate": 0,
+          "PsaType": ""
+        },
+        "ViaBotID": 0,
+        "ViaBusinessBotID": 0,
+        "ReplyTo": {
+          "Flags": 16,
+          "ReplyToScheduled": false,
+          "ForumTopic": false,
+          "Quote": false,
+          "ReplyToMsgID": 19684,
+          "ReplyToPeerID": null,
+          "ReplyFrom": {
+            "Flags": 0,
+            "Imported": false,
+            "SavedOut": false,
+            "FromID": null,
+            "FromName": "",
+            "Date": 0,
+            "ChannelPost": 0,
+            "PostAuthor": "",
+            "SavedFromPeer": null,
+            "SavedFromMsgID": 0,
+            "SavedFromID": null,
+            "SavedFromName": "",
+            "SavedDate": 0,
+            "PsaType": ""
+          },
+          "ReplyMedia": null,
+          "ReplyToTopID": 0,
+          "QuoteText": "",
+          "QuoteEntities": null,
+          "QuoteOffset": 0
+        },
+        "Date": 1740660245,
+        "Message": "",
+        "Media": {
+          "Flags": 1,
+          "Spoiler": false,
+          "Photo": {
+            "Flags": 0,
+            "HasStickers": false,
+            "ID": 6197258696115996585,
+            "AccessHash": 7483309643948281465,
+            "FileReference": "xxx",
+            "Date": 1740660244,
+            "Sizes": [
+              {
+                "Type": "i",
+                "Bytes": "xxxx"
+              },
+              {
+                "Type": "m",
+                "W": 320,
+                "H": 197,
+                "Size": 9276
+              },
+              {
+                "Type": "x",
+                "W": 800,
+                "H": 492,
+                "Size": 42035
+              },
+              {
+                "Type": "y",
+                "W": 948,
+                "H": 583,
+                "Sizes": [
+                  4102,
+                  9606,
+                  23543,
+                  31960,
+                  47150
+                ]
+              }
+            ],
+            "VideoSizes": null,
+            "DCID": 5
+          },
+          "TTLSeconds": 0
+        },
+        "ReplyMarkup": null,
+        "Entities": null,
+        "Views": 659,
+        "Forwards": 1,
+        "Replies": {
+          "Flags": 0,
+          "Comments": false,
+          "Replies": 0,
+          "RepliesPts": 0,
+          "RecentRepliers": null,
+          "ChannelID": 0,
+          "MaxID": 0,
+          "ReadMaxID": 0
+        },
+        "EditDate": 1740660248,
+        "PostAuthor": "",
+        "GroupedID": 13925281962643701,
+        "Reactions": {
+          "Flags": 0,
+          "Min": false,
+          "CanSeeList": false,
+          "ReactionsAsTags": false,
+          "Results": null,
+          "RecentReactions": null,
+          "TopReactors": null
+        },
+        "RestrictionReason": null,
+        "TTLPeriod": 0,
+        "QuickReplyShortcutID": 0,
+        "Effect": 0,
+        "Factcheck": {
+          "Flags": 0,
+          "NeedCheck": false,
+          "Country": "",
+          "Text": {
+            "Text": "",
+            "Entities": null
+          },
+          "Hash": 0
+        }
+      }
+    },
+    {
+      "id": 19702,
+      "type": "message",
+      "file": "6197258696115996584.jpg",
+      "raw": {
+        "Flags": 10667530,
+        "Out": true,
+        "Mentioned": false,
+        "MediaUnread": false,
+        "Silent": false,
+        "Post": true,
+        "FromScheduled": false,
+        "Legacy": false,
+        "EditHide": true,
+        "Pinned": false,
+        "Noforwards": false,
+        "InvertMedia": false,
+        "Flags2": 0,
+        "Offline": false,
+        "ID": 19702,
+        "FromID": null,
+        "FromBoostsApplied": 0,
+        "PeerID": {
+          "ChannelID": 1394130208
+        },
+        "SavedPeerID": null,
+        "FwdFrom": {
+          "Flags": 0,
+          "Imported": false,
+          "SavedOut": false,
+          "FromID": null,
+          "FromName": "",
+          "Date": 0,
+          "ChannelPost": 0,
+          "PostAuthor": "",
+          "SavedFromPeer": null,
+          "SavedFromMsgID": 0,
+          "SavedFromID": null,
+          "SavedFromName": "",
+          "SavedDate": 0,
+          "PsaType": ""
+        },
+        "ViaBotID": 0,
+        "ViaBusinessBotID": 0,
+        "ReplyTo": {
+          "Flags": 16,
+          "ReplyToScheduled": false,
+          "ForumTopic": false,
+          "Quote": false,
+          "ReplyToMsgID": 19684,
+          "ReplyToPeerID": null,
+          "ReplyFrom": {
+            "Flags": 0,
+            "Imported": false,
+            "SavedOut": false,
+            "FromID": null,
+            "FromName": "",
+            "Date": 0,
+            "ChannelPost": 0,
+            "PostAuthor": "",
+            "SavedFromPeer": null,
+            "SavedFromMsgID": 0,
+            "SavedFromID": null,
+            "SavedFromName": "",
+            "SavedDate": 0,
+            "PsaType": ""
+          },
+          "ReplyMedia": null,
+          "ReplyToTopID": 0,
+          "QuoteText": "",
+          "QuoteEntities": null,
+          "QuoteOffset": 0
+        },
+        "Date": 1740660245,
+        "Message": "感觉还是挺贵的。",
+        "Media": {
+          "Flags": 1,
+          "Spoiler": false,
+          "Photo": {
+            "Flags": 0,
+            "HasStickers": false,
+            "ID": 6197258696115996584,
+            "AccessHash": 1555019302692424769,
+            "FileReference": "xxx",
+            "Date": 1740660243,
+            "Sizes": [
+              {
+                "Type": "i",
+                "Bytes": "xxx"
+              },
+              {
+                "Type": "m",
+                "W": 320,
+                "H": 94,
+                "Size": 3547
+              },
+              {
+                "Type": "x",
+                "W": 730,
+                "H": 215,
+                "Sizes": [
+                  1619,
+                  9794,
+                  10602
+                ]
+              }
+            ],
+            "VideoSizes": null,
+            "DCID": 5
+          },
+          "TTLSeconds": 0
+        },
+        "ReplyMarkup": null,
+        "Entities": null,
+        "Views": 617,
+        "Forwards": 1,
+        "Replies": {
+          "Flags": 1,
+          "Comments": true,
+          "Replies": 0,
+          "RepliesPts": 49282,
+          "RecentRepliers": null,
+          "ChannelID": 1419528921,
+          "MaxID": 0,
+          "ReadMaxID": 0
+        },
+        "EditDate": 1740660248,
+        "PostAuthor": "",
+        "GroupedID": 13925281962643701,
+        "Reactions": {
+          "Flags": 0,
+          "Min": false,
+          "CanSeeList": false,
+          "ReactionsAsTags": false,
+          "Results": null,
+          "RecentReactions": null,
+          "TopReactors": null
+        },
+        "RestrictionReason": null,
+        "TTLPeriod": 0,
+        "QuickReplyShortcutID": 0,
+        "Effect": 0,
+        "Factcheck": {
+          "Flags": 0,
+          "NeedCheck": false,
+          "Country": "",
+          "Text": {
+            "Text": "",
+            "Entities": null
+          },
+          "Hash": 0
+        }
+      }
+    }
+  ]
+}
